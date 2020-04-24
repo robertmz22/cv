@@ -9,7 +9,7 @@ ul{
 }
 
 .top{
-  background-color: #698474;
+  background-color: #3b6978;
   position: relative;
   padding-top: 100px;
   padding-bottom: 50px;
@@ -59,7 +59,8 @@ h3{
 }
 
 a{
-  color: #11999E;
+  color: white;
+  text-decoration: none;
 }
 
 .skill-row{
@@ -78,4 +79,11 @@ a{
 .skill-icon2{
   float: right;
   margin-left: 30px;
+}
+
+.bottom-container{
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin: 10px 0 10px 0;
+  background-color: #84a9ac;
 }
