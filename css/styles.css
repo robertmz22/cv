@@ -1,0 +1,81 @@
+body{
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+}
+
+ul{
+  line-height: 30px;
+  margin-left: 120px;
+}
+
+.top{
+  background-color: #698474;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.brain{
+  margin-top: 25px;
+}
+
+.profile{
+  margin-top: 25px;
+}
+
+h1{
+  font-size: 500%;
+  color: #1b262c;
+  margin: 80px auto 0 auto;
+  font-family: 'Rock Salt', cursive;
+}
+
+.description{
+  color: #1b262c;
+  font-weight: normal;
+  line-height: 0.5;
+}
+
+h2{
+  color: #323232;
+  font-family: 'Bree Serif', serif;
+}
+
+h3{
+  color: #323232;
+  font-family: 'Bree Serif', serif;
+}
+
+.top-cloud{
+  position:absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+a{
+  color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin:50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-icon1{
+  float: left;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.skill-icon2{
+  float: right;
+  margin-left: 30px;
+}
